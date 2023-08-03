@@ -169,3 +169,74 @@ The user should have no result found.
 
 Term to search: 12@#$
 
+*****************************************************************
+
+## **4. Test quantity input in limit product per order.
+
+**Description**
+
+Test quantity input in the maximum product you can should to buy.
+
+**Steps to reproduce**
+
+1. Go to https://automationteststore.com/index.php?rt=product/product&product_id=118
+2. Select between limits for the product
+3. Add to cart.
+
+**Expected result**
+
+You can add the products in cart.
+
+**********************************************************
+
+## **5. Test quantity input across the limit product select per order
+
+**Descripton**
+
+Test quantity input, add more products across the limit.
+
+**Steps to reproduce**
+
+1. Go to https://automationteststore.com/index.php?rt=product/product&path=68_70&product_id=121
+2. Select a product across the limit
+3. Add to cart
+
+**Expected result**
+
+You will see a message with an error because you can't add more products than the limit.
+
+*********************************************************
+
+## **6. Test " Add to cart" button
+
+**Description**
+
+Test the " Add to cart" button to see if the word is in the correct condition.
+
+**Steps to reproduce**
+
+1. Go to https://automationteststore.com/
+2. Select the product you want
+3. Press the " Add to cart" button
+
+**Expected result**
+
+Users can add and see the product in the cart.
+
+********************************************
+
+## **7. Test size input
+
+**Description**
+
+Test size input on the product to see if you can select the size you want.
+
+**Steps to reproduce**
+
+1. Go to https://automationteststore.com/index.php?rt=product/product&path=68_70&product_id=121
+2. Press the button to see about more size
+3. Select your size
+
+**Expected result**
+
+Users can see and select which size he want.
