@@ -171,7 +171,9 @@ Term to search: 12@#$
 
 *****************************************************************
 
-## **4. Test quantity input in limit product per order.
+# Automation testing store
+
+## **1. Test quantity input in limit product per order.**
 
 **Description**
 
@@ -189,7 +191,7 @@ You can add the products in cart.
 
 **********************************************************
 
-## **5. Test quantity input across the limit product select per order
+## **2. Test quantity input across the limit product select per order**
 
 **Descripton**
 
@@ -207,7 +209,7 @@ You will see a message with an error because you can't add more products than th
 
 *********************************************************
 
-## **6. Test " Add to cart" button
+## **3. Test " Add to cart" button**
 
 **Description**
 
@@ -225,7 +227,7 @@ Users can add and see the product in the cart.
 
 ********************************************
 
-## **7. Test size input
+## **4. Test size input**
 
 **Description**
 
